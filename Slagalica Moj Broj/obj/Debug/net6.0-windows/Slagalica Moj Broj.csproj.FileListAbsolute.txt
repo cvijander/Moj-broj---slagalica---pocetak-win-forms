@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\bin\Debug\net6.0-windows\Slagalica Moj Broj.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\bin\Debug\net6.0-windows\Slagalica Moj Broj.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\bin\Debug\net6.0-windows\Slagalica Moj Broj.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\bin\Debug\net6.0-windows\Slagalica Moj Broj.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\bin\Debug\net6.0-windows\Slagalica Moj Broj.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica_Moj_Broj.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\refint\Slagalica Moj Broj.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\Slagalica Moj Broj.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Slagalica Moj Broj\Slagalica Moj Broj\obj\Debug\net6.0-windows\ref\Slagalica Moj Broj.dll
